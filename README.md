@@ -1,2 +1,2 @@
 # HelloWorld
-I am a Software Quality Assurance Engineer
+Software Quality Assurance Engineer
